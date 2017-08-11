@@ -1,4 +1,11 @@
 #!/usr/bin/env bash
+
+###
+##
+## USAGE: ./test_suite_by_site.sh http://www.kamorigoat.com
+##
+###
+
 domain="${1}"
 number_of_requests=(10 25 50 100 500 1000)
 number_concurrent=(2 5 10 10 25 50)
