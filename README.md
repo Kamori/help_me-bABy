@@ -57,8 +57,11 @@ Test averages
 
 ### Todos
 1 Create some data files (?json) that can be used to verify data ran across multiple nodes, this way I can be even lazier
+
 2 Pass params directly to AB
+
 3 Build web tool for the visual peoples
+
 4 Send data to elastic search or something maybe to track over time.
 
 
