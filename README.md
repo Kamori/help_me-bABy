@@ -1,4 +1,4 @@
-# Please bABy, help me test
+# Please apachebench, help me test
 
 I was designed to quickly and easily run a series of ApacheBench tests with fitting criterie. Allowing myself to design a wrapper to create myself a test suite when it comes to benchmarking:
 
